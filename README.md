@@ -11,3 +11,5 @@
 <li><strong>Validar entrada:</strong> Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.</li>
 <li><strong>Visualizar a lista:</strong> Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.</li>
 <li><strong>Sorteio aleatório:</strong>Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.</p></li>
+
+<a href = "https://michellinemunique.github.io/Challenge-Amigo-Secreto/"> Link do projeto </a>
